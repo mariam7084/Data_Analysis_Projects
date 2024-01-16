@@ -19,4 +19,4 @@
  ## 4. Covid-19 Data Analysis
  - Performed EDA of Covid-19 cases in different countries over a period of time and visualized the results.
  - This Project was a part of KWoC'23
- - [Link](https://github.com/mariam7084/ML-ProjectKart/tree/b709fe6588ae1875c7c5580436e974da19d69193/Covid-19%20Data%20Analysis/Mariam)
+ - [Link](https://github.com/prathimacode-hub/ML-ProjectKart/tree/b1782ae80a7e3357cb4b43c23d6f631bb2334300/Covid-19%20Data%20Analysis/Mariam)
