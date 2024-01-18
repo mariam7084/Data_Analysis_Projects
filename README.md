@@ -20,3 +20,8 @@
  - Performed EDA of Covid-19 cases in different countries over a period of time and visualized the results.
  - This Project was a part of KWoC'23
  - [Link](https://github.com/prathimacode-hub/ML-ProjectKart/tree/b1782ae80a7e3357cb4b43c23d6f631bb2334300/Covid-19%20Data%20Analysis/Mariam)
+
+ ## 5. Most Sold Books in the World Analysis
+ - Exploratory data analysis was performed on the dataset containing info about the most sold books in the world in the last 4 centuries.
+ - This project was a part of JWoC'24
+ - [Link](https://github.com/abhisheks008/ML-Crate/tree/abb4286514fb4def45dec4c8533d0f215135229c/Most%20Sold%20Books%20in%20the%20World%20Analysis)
