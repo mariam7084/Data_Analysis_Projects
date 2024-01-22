@@ -25,3 +25,8 @@
  - Exploratory data analysis was performed on the dataset containing info about the most sold books in the world in the last 4 centuries.
  - This project was a part of JWoC'24
  - [Link](https://github.com/abhisheks008/ML-Crate/tree/abb4286514fb4def45dec4c8533d0f215135229c/Most%20Sold%20Books%20in%20the%20World%20Analysis)
+
+## 6. PISA Performance Score Analysis
+ - Perfromed EDA on PISA scores dataset of OECD and Non-OECD Countries.
+ - This project was a part of JWoC'24
+ - [Link](https://github.com/abhisheks008/ML-Crate/tree/74fa61c39be0eb655d55b0661e8c4e68a6491d09/PISA%20Performance%20Score%20Analysis)
