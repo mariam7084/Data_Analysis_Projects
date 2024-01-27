@@ -30,3 +30,8 @@
  - Perfromed EDA on PISA scores dataset of OECD and Non-OECD Countries.
  - This project was a part of JWoC'24
  - [Link](https://github.com/abhisheks008/ML-Crate/tree/74fa61c39be0eb655d55b0661e8c4e68a6491d09/PISA%20Performance%20Score%20Analysis)
+
+## 7. Global Retailers Analysis
+- Analyzing data about top 250 retailers globally in 2019 as released by deloitte.
+- This project was a part of JWoC'24
+- [Link](https://github.com/abhisheks008/ML-Crate/tree/f32ed9ba062edf280031f6787f27c8d13a18c478/Global%20Retailers%20Analysis)
