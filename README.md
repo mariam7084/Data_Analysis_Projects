@@ -35,3 +35,7 @@
 - Analyzing data about top 250 retailers globally in 2019 as released by deloitte.
 - This project was a part of JWoC'24
 - [Link](https://github.com/abhisheks008/ML-Crate/tree/f32ed9ba062edf280031f6787f27c8d13a18c478/Global%20Retailers%20Analysis)
+
+## 8. World Population Growth Analysis
+- This project was a part of JWoC'24
+- [Link](https://github.com/abhisheks008/ML-Crate/tree/ca765e1ff7c576e392bef4d039e95c74c74026a0/World%20Population%20Growth%20Analysis/Model)
