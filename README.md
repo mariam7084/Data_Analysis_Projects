@@ -39,3 +39,8 @@
 ## 8. World Population Growth Analysis
 - This project was a part of JWoC'24
 - [Link](https://github.com/abhisheks008/ML-Crate/tree/ca765e1ff7c576e392bef4d039e95c74c74026a0/World%20Population%20Growth%20Analysis/Model)
+
+
+## 9. Google Playstore Analysis
+- This project was a part of JWoC'24
+- [Link](https://github.com/abhisheks008/ML-Crate/tree/6c581aa63cffb5c03fa25dc020cd1cfdbe5760d2/Google%20Playstore%20Analysis%20And%20Rating%20Predictor/Model)
